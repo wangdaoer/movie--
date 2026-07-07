@@ -1,0 +1,20 @@
+shot_id: SHOT002
+episode: S01E01
+aspect_ratio: "2.39:1"
+fps: 24
+duration_seconds: 3.0
+lens: "35mm"
+camera_type: "low close-up"
+movement:
+  type: "slow push with micro tilt"
+  speed: "0.12x"
+  shake: "off"
+  stabilization: "locked, minimal movement"
+depth_of_field: "shallow-medium"
+lighting:
+  key: "warm spill from dawn lamp"
+  fill: "cold gray street ambience"
+  notes: "The boot and wood must remain readable without looking staged."
+weather:
+  surface: "wet wood and wet stone"
+  atmosphere: "light steam, rain residue"
