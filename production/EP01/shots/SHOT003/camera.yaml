@@ -1,0 +1,24 @@
+shot_id: SHOT003
+episode: S01E01
+aspect_ratio: "2.39:1"
+fps: 24
+duration_seconds: 8.0
+lens: "35mm"
+camera_type: "wide locked street composition"
+movement:
+  type: "locked-off with subtle atmospheric parallax"
+  speed: "static"
+  shake: "off"
+  stabilization: "tripod"
+depth_of_field: "deep"
+lighting:
+  key: "practical morning lamps and soup shop warmth"
+  fill: "cold gray dawn ambience"
+  notes: "The frame should remain mostly gray, with small warm areas from lamps and shop interiors."
+weather:
+  surface: "wet stone, coal dust residue"
+  atmosphere: "steam layers, light mist"
+blocking:
+  foreground: "wet street and passing coal cart edge"
+  midground: "soup shop and lamp repair stall"
+  background: "pipes, repaired facades, pale sky"
