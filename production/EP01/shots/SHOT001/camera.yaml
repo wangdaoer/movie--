@@ -1,0 +1,21 @@
+shot_id: SHOT001
+episode: S01E01
+aspect_ratio: "2.39:1"
+fps: 24
+duration_seconds: 4.0
+lens: "24mm"
+camera_type: "locked tripod"
+movement:
+  type: "very slow push in"
+  speed: "0.15x"
+  shake: "off"
+  stabilization: "cinematic stable"
+depth_of_field: "medium-deep"
+lighting:
+  key: "warm tungsten lamp filament"
+  fill: "cold blue-gray pre-dawn ambience"
+  practical: "single weathered dawn lamp"
+  notes: "Light should reveal only a small patch of wet ground; do not over-light the street."
+weather:
+  surface: "wet stone"
+  atmosphere: "steam, mist, fine suspended particles"
