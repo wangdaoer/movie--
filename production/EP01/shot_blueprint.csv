@@ -1,0 +1,86 @@
+shot_id,package,title_cn,title_en,duration,lens,camera,core_action
+SHOT001,Package001_Opening,晨灯亮起,The Dawn Lamp Ignites,4.0,24mm,locked tripod,A weathered brass industrial street lamp slowly warms from deep red to orange to amber before stabilizing.
+SHOT002,Package001_Opening,木板被踩下,The Board Is Stepped On,3.0,35mm,low close-up,A worn leather boot gently presses a raised wet wooden plank flat and continues walking.
+SHOT003,Package001_Opening,灰港苏醒,Gray Harbor Wakes,8.0,35mm,wide locked,"Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones."
+SHOT004,Package001_Opening,祁昼第一次出现,Qi Zhou First Appears,6.0,50mm,medium-wide static,"Qi Zhou walks naturally through the street carrying an old wooden-brass collection box, unnoticed."
+SHOT005,Package001_Opening,停下,The Pause,5.0,85mm,long lens static,Qi Zhou gradually slows near the old alley entrance while everyone else keeps moving.
+SHOT006,Package001_Opening,风进入旧货巷,Wind Enters the Alley,4.0,70mm,locked,"Cold wind pushes old paper into a dark narrow alley; no people, only steam and silence."
+SHOT007,Package002_Old_Alley,尸体显现,The Body Appears,5.0,85mm,static medium-long,"A worker sits against the alley wall as if asleep; Qi Zhou notices from a respectful distance."
+SHOT008,Package002_Old_Alley,整理袖口,Last Dignity,4.0,85mm,medium close,Qi Zhou gently adjusts the dead worker's sleeve and badge before starting work.
+SHOT009,Package002_Old_Alley,采梦盒打开,Dream Box Opens,4.0,100mm macro,macro static,A worn wooden-and-brass dream collection box opens; an old silver needle rests inside.
+SHOT010,Package002_Old_Alley,银针靠近,Silver Needle,5.0,100mm macro,macro static,Qi Zhou carefully brings the silver needle near the worker's ear with clinical restraint.
+SHOT011,Package002_Old_Alley,白梦凝结,White Dream Forms,6.0,100mm macro,macro locked,A thin white dream thread condenses into a clear crystal inside the box.
+SHOT012,Package002_Old_Alley,蓝色出现,Blue Appears,5.0,100mm macro,macro locked,"A faint blue trace appears inside the clear dream crystal, subtle and impossible."
+SHOT013,Package002_Old_Alley,祁昼停住,Qi Zhou Freezes,4.0,85mm close,static close,"Qi Zhou's hands stop for the first time; his expression remains controlled."
+SHOT014,Package002_Old_Alley,巷口脚步,Footsteps at Alley Mouth,4.0,50mm,static over-shoulder,Distant footsteps approach the alley entrance while Qi Zhou closes the box.
+SHOT015,Package002_Old_Alley,离开旧货巷,Leaving the Alley,5.0,50mm,rear static,Qi Zhou exits the alley with the box hidden close to his coat.
+SHOT016,Package003_Station,采梦站外,Collection Station Exterior,5.0,35mm,locked wide,The 13th District dream collection station sits between pipes and old signage.
+SHOT017,Package003_Station,编号木架,Numbered Shelves,4.0,50mm,slow push,"Rows of numbered wooden shelves hold old dream boxes, each repaired and labeled."
+SHOT018,Package003_Station,老人看见蓝色,Old Man Sees Blue,5.0,85mm,static close,The old station worker opens the box and sees the faint blue trace.
+SHOT019,Package003_Station,手颤,Trembling Hand,3.0,100mm macro,macro locked,The old man's hand trembles above the dream crystal.
+SHOT020,Package003_Station,未登记,No Registration,5.0,50mm,static insert,A registration pen hovers above a blank line but never writes.
+SHOT021,Package003_Station,锁入柜下,Locked Below Counter,4.0,50mm,low close,The old man locks the box below the counter instead of registering it.
+SHOT022,Package003_Station,不要告诉任何人,Do Not Tell Anyone,5.0,85mm,two-shot static,The old man quietly warns Qi Zhou not to tell anyone today.
+SHOT023,Package003_Station,祁昼离开采梦站,Qi Zhou Leaves Station,5.0,50mm,static doorway,Qi Zhou leaves the station more quietly than he entered.
+SHOT024,Package003_Station,登记簿留白,Blank Ledger,4.0,70mm,static insert,The open ledger shows one blank space where a record should be.
+SHOT025,Package003_Station,站内恢复平静,Station Returns to Normal,5.0,35mm,wide static,"The station resumes normal rhythm, but the hidden box remains below the counter."
+SHOT026,Package004_Investigation,行政中心,Administrative Center,5.0,35mm,locked wide,"A cleaner, colder administrative office contrasts with Gray Harbor's damp streets."
+SHOT027,Package004_Investigation,系统异常,System Anomaly,4.0,50mm,static insert,A dull terminal flags a missing dream collection record.
+SHOT028,Package004_Investigation,电话拨出,Internal Call,4.0,70mm,static close,A clerk dials an internal line after the anomaly persists.
+SHOT029,Package004_Investigation,闻雪衡出场,Wen Xueheng Appears,5.0,50mm,medium static,Wen Xueheng receives the call while sorting an old sealed case file.
+SHOT030,Package004_Investigation,Case-13,Case-13,4.0,85mm insert,static insert,A thin file marked Case-13 lies briefly visible on Wen's desk.
+SHOT031,Package004_Investigation,地图图钉,Map Pin,4.0,50mm,static insert,Wen places a white pin on District 13 on a wall map.
+SHOT032,Package004_Investigation,登记缺失,Missing Record,4.0,50mm,static insert,The words 'missing registration' are written beside Qi Zhou's route.
+SHOT033,Package004_Investigation,问卖汤铺,Soup Shop Question,5.0,50mm,medium static,Wen asks indirect questions near the soup shop while the owner protects Qi Zhou with silence.
+SHOT034,Package004_Investigation,问修灯铺,Lamp Repair Detail,5.0,50mm,medium static,The lamp repairman recalls the wind changing near the old alley.
+SHOT035,Package004_Investigation,闻雪衡走向十三区,Wen Walks to District 13,5.0,70mm,rear tracking minimal,"Wen walks through the damp district with precise, restrained focus."
+SHOT036,Package005_Choice,河堤,River Embankment,5.0,35mm,wide static,Qi Zhou sits alone on a gray river embankment under a pale sunless sky.
+SHOT037,Package005_Choice,木盒在身边,Box Beside Him,4.0,50mm,low close,The wooden-brass box sits beside Qi Zhou on the damp concrete.
+SHOT038,Package005_Choice,再次打开,Open Again,4.0,85mm,static close,"Qi Zhou opens the box again, careful and hesitant."
+SHOT039,Package005_Choice,蓝色更深,Blue Deepens,5.0,100mm macro,macro locked,The blue trace inside the crystal is slightly deeper than before.
+SHOT040,Package005_Choice,没有碰,He Does Not Touch It,4.0,85mm close,static close,Qi Zhou reaches toward the crystal but stops before touching it.
+SHOT041,Package005_Choice,采梦站检查员,Inspector Arrives,5.0,35mm,wide static,An inspector enters the collection station with routine authority.
+SHOT042,Package005_Choice,老人撒谎,The Old Man Lies,5.0,85mm,medium close,The old man calmly says the item was damaged and needs reprocessing.
+SHOT043,Package005_Choice,第一次选择,First Choice,5.0,50mm,medium static,"Qi Zhou stands, hides the box inside his coat, and chooses not to return to the station."
+SHOT044,Package005_Choice,回家方向,Toward Home,5.0,70mm,rear static,Qi Zhou walks away from the station route and toward home.
+SHOT045,Package005_Choice,风衣拉链,Coat Zipper,3.0,85mm close,static insert,Qi Zhou pulls the coat closed over the hidden box.
+SHOT046,Package006_Pressure,夜色降临,Night Falls,5.0,35mm,wide static,Gray Harbor's morning lamps glow as the city shifts into night routine.
+SHOT047,Package006_Pressure,巡检路口,Checkpoint,5.0,50mm,medium-wide static,Two patrol workers check documents on a narrow road.
+SHOT048,Package006_Pressure,木盒贴身,Box Against Coat,4.0,85mm,close static,Qi Zhou's hand touches the hidden box through his coat as he approaches patrol.
+SHOT049,Package006_Pressure,通过巡检,Passes Checkpoint,5.0,50mm,static medium,Qi Zhou passes the patrol without being stopped.
+SHOT050,Package006_Pressure,呼气,Exhale,3.0,85mm close,static close,Only after passing does Qi Zhou release a small breath.
+SHOT051,Package006_Pressure,闻雪衡档案,Wen's Notes,4.0,70mm,static insert,Wen writes Qi Zhou's name into her notebook under missing registration.
+SHOT052,Package006_Pressure,他说谎,He Lied,4.0,85mm insert,static insert,Wen writes: He lied.
+SHOT053,Package006_Pressure,站外观察者,Watcher Outside Station,5.0,70mm,long lens static,A silent figure watches the collection station from across the street.
+SHOT054,Package006_Pressure,柜下蓝梦,Blue Under Counter,4.0,100mm macro,macro locked,"The hidden crystal remains under the station counter, faintly blue."
+SHOT055,Package006_Pressure,还是来了,It Has Returned,5.0,85mm close,static close,The old man looks at the crystal and whispers that it has returned.
+SHOT056,Package007_Bridge,东桥夜色,East Bridge at Night,5.0,35mm,wide static,Qi Zhou walks slowly across a wet bridge under industrial lamps.
+SHOT057,Package007_Bridge,闻雪衡迎面,Wen Approaches,5.0,70mm,long lens static,Wen Xueheng approaches from the opposite end of the bridge.
+SHOT058,Package007_Bridge,擦肩,Passing,4.0,85mm,medium static,They pass each other without stopping until Wen says his name.
+SHOT059,Package007_Bridge,祁昼回头,Qi Zhou Turns,4.0,85mm close,static close,Qi Zhou stops and slowly turns back.
+SHOT060,Package007_Bridge,路灯下的闻雪衡,Wen Under Lamp,5.0,85mm,medium static,"Wen stands under a lamp, calm and unreadable."
+SHOT061,Package007_Bridge,桥上对话,Bridge Conversation,6.0,70mm,two-shot static,"They speak across distance; no one steps closer."
+SHOT062,Package007_Bridge,木盒目光,Eyes on the Box,4.0,85mm close,static close,Wen's gaze briefly lands on the box and then moves away.
+SHOT063,Package007_Bridge,可能记错了,Maybe It Was Misremembered,5.0,85mm close,static close,"Qi Zhou lies badly, saying it may have been misremembered."
+SHOT064,Package007_Bridge,分开,Separate Directions,5.0,35mm,wide static,They walk away in opposite directions across the bridge.
+SHOT065,Package007_Bridge,记录本,Notebook,4.0,85mm insert,static insert,Wen writes one line into her notebook.
+SHOT066,Package008_Home,祁昼家门,Qi Zhou's Door,4.0,50mm,static exterior,Qi Zhou returns to a small worn room above an industrial street.
+SHOT067,Package008_Home,屋里无灯,No Light Inside,5.0,35mm,wide interior static,The small room is lit only by streetlamp glow through the window.
+SHOT068,Package008_Home,铁盆接水,Iron Basin,4.0,85mm insert,static insert,Water drops into an old iron basin under a roof leak.
+SHOT069,Package008_Home,挪盆,Moves the Basin,4.0,50mm,medium static,Qi Zhou moves the basin slightly as if this happens every day.
+SHOT070,Package008_Home,木盒上桌,Box on Table,4.0,70mm,static insert,The wooden-brass box is placed on the small table.
+SHOT071,Package008_Home,打开木盒,Box Opens at Home,5.0,85mm close,static close,Qi Zhou opens the box in the quiet room.
+SHOT072,Package008_Home,蓝梦更明显,Blue Is Stronger,5.0,100mm macro,macro locked,The blue inside the crystal is stronger than before but still not glowing like a special effect.
+SHOT073,Package008_Home,收音机杂音,Radio Static,4.0,50mm insert,static insert,A small radio emits a brief distortion and returns to normal.
+SHOT074,Package008_Home,祁昼看向收音机,Looks to Radio,4.0,85mm close,static close,"Qi Zhou looks toward the radio, then back to the box."
+SHOT075,Package008_Home,藏起木盒,Hides the Box,5.0,50mm,medium static,Qi Zhou hides the box at home instead of returning it.
+SHOT076,Package008_Home,窗外路灯,Streetlamp Outside,4.0,70mm,static exterior,A streetlamp outside flickers softly in the rain.
+SHOT077,Package008_Home,人影,The Figure,5.0,85mm,long lens static,A distant figure stands under the streetlamp watching Qi Zhou's window.
+SHOT078,Package008_Home,祁昼不知道,Qi Zhou Does Not Know,4.0,50mm,interior static,"Inside, Qi Zhou remains unaware of the figure outside."
+SHOT079,Package008_Home,水滴,Water Drop,3.0,100mm macro,macro locked,A single drop falls into the iron basin.
+SHOT080,Package008_Home,蓝梦轻震,Blue Dream Trembles,4.0,100mm macro,macro locked,The blue dream crystal gives one subtle physical tremble.
+SHOT081,Package008_Home,广播明日作业,Tomorrow's Broadcast,5.0,50mm,static room,The radio announces tomorrow's work schedule in a calm bureaucratic voice.
+SHOT082,Package008_Home,祁昼沉默,Qi Zhou Silent,5.0,85mm close,static close,Qi Zhou sits in silence beside the hidden secret.
+SHOT083,Package008_Home,窗外还在,Still Outside,4.0,85mm long,static exterior,"The watcher is still outside, unmoving."
+SHOT084,Package008_Home,黑前一滴水,Last Drop Before Black,3.0,100mm macro,macro locked,"One final water drop lands in the basin; the room sound falls away."
+SHOT085,Package008_Home,切黑,Cut to Black,2.0,static,black frame,Cut to black with only the last radio static lingering.
