@@ -6,6 +6,7 @@ on:
     paths:
       - "tools/generate_ep01_production_packages.py"
       - "production/EP01/shot_blueprint.csv"
+      - ".github/workflows/generate-ep01-shot-packages.yml"
 
 permissions:
   contents: write
