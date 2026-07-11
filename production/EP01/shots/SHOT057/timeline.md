@@ -1,0 +1,13 @@
+# SHOT057 Timeline
+
+## 0.0s
+
+Establish the shot state and visual focus.
+
+## 2.5s
+
+Primary action or emotional beat occurs: Wen Xueheng approaches from the opposite end of the bridge.
+
+## 5.0s
+
+Clean cut point into next shot.

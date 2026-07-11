@@ -1,6 +1,7 @@
 # SHOT003 — 灰港苏醒 / Gray Harbor Wakes
 
 Episode: S01E01
+Package: Package001_Opening
 Status: READY_FOR_VIDEO
 Duration: 8.0s
 Aspect Ratio: 2.39:1
@@ -10,12 +11,12 @@ FPS: 24
 
 ## Purpose
 
-Reveal Gray Harbor as a living industrial neighborhood before the plot begins. The city should feel inhabited, repaired, and routine.
+Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones.
 
 ## Visual Target
 
-A wide locked street view: soup shop steam, old lamp repair stall, coal cart passing, damp stone road, workers beginning the morning. Qi Zhou is not yet emphasized.
+Use the WUCHENG Video Bible visual language: repaired industrial materials, damp air, restrained movement, realistic lighting, and no unnecessary spectacle.
 
 ## Next Action
 
-Generate AI video v1, then review spatial continuity, crowd restraint, steam behavior, and whether the city feels lived-in rather than spectacular.
+Generate AI video v1 using the motion prompt and camera settings in this package, then submit for Director Review.

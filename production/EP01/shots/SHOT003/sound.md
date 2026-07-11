@@ -2,25 +2,20 @@
 
 ## Ambience
 
-- Harbor wind through narrow industrial street
-- Soup pot simmering
-- Steam vent release
-- Distant rail resonance
-- Coal cart wheel rumble
-- Soft morning broadcast static, barely audible
+- Industrial harbor room tone
+- Wind through repaired metal structures
+- Distant steam release
+- Wet street or interior resonance depending on location
 
 ## Foley
 
-- Metal tools from lamp repair stall
-- Coal cart axle creak
-- Footsteps on wet stone
-- Soup ladle against pot
-- Small ladder wood/metal shift
+- Physically motivated small sounds matching the shot action
+- Fabric, tools, wood, metal, water, footsteps, breath as appropriate
 
 ## Music Cue
 
-No melody. Optional very low sustained texture underneath ambience.
+No melody unless specifically required. Use silence and low texture first.
 
 ## Silence Notes
 
-This shot should feel busy but not noisy. Each layer must leave space for the city to breathe.
+Let quiet carry tension. Do not over-score.

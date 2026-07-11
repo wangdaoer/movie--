@@ -1,21 +1,21 @@
 shot_id: SHOT001
 episode: S01E01
+package: Package001_Opening
 aspect_ratio: "2.39:1"
 fps: 24
 duration_seconds: 4.0
 lens: "24mm"
 camera_type: "locked tripod"
 movement:
-  type: "very slow push in"
-  speed: "0.15x"
+  type: "static or minimal motivated movement"
+  speed: "low"
   shake: "off"
   stabilization: "cinematic stable"
-depth_of_field: "medium-deep"
+depth_of_field: "as required by lens and story focus"
 lighting:
-  key: "warm tungsten lamp filament"
-  fill: "cold blue-gray pre-dawn ambience"
-  practical: "single weathered dawn lamp"
-  notes: "Light should reveal only a small patch of wet ground; do not over-light the street."
+  key: "warm tungsten practicals where present"
+  fill: "cold blue-gray ambient dawn or night"
+  notes: "Keep lighting restrained and physically motivated."
 weather:
-  surface: "wet stone"
-  atmosphere: "steam, mist, fine suspended particles"
+  surface: "wet industrial materials"
+  atmosphere: "steam, mist, dust, cold air"

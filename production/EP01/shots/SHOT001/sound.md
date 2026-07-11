@@ -2,22 +2,20 @@
 
 ## Ambience
 
-- Far harbor wind
+- Industrial harbor room tone
+- Wind through repaired metal structures
 - Distant steam release
-- Far metal rail resonance
-- Very distant factory horn, barely audible
+- Wet street or interior resonance depending on location
 
 ## Foley
 
-- Lamp filament electrical hum
-- Small metal expansion tick as the lamp warms
-- Pipe vibration
-- One irregular water drip from nearby steam pipe
+- Physically motivated small sounds matching the shot action
+- Fabric, tools, wood, metal, water, footsteps, breath as appropriate
 
 ## Music Cue
 
-No melody. Optional barely audible low cello tone or synth pad, under ambience.
+No melody unless specifically required. Use silence and low texture first.
 
 ## Silence Notes
 
-Silence is part of the shot. Do not fill the whole frame with music. The city should feel like it is waking up slowly.
+Let quiet carry tension. Do not over-score.

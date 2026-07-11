@@ -1,11 +1,13 @@
 # SHOT003 Motion Prompt
 
-A wide locked shot of Gray Harbor beginning its morning routine. Steam rises from the soup shop in uneven layers. A lamp repairman checks a morning lamp on a ladder. A coal cart slowly passes through the foreground, briefly blocking part of the street. Workers move quietly in the background. The camera remains still. The city wakes without drama. Everything feels repaired, damp, and used every day.
+Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones.
+
+Motion should be restrained, physically believable, and motivated by character behavior or the city itself. Camera movement should remain static or nearly static unless the shot specifically requires movement. Steam, rain residue, fabric, small tools, and light should move naturally. Avoid spectacle.
 
 ## Motion Rules
 
-- Camera remains locked.
-- Coal cart movement must be slow and heavy.
-- Steam should drift irregularly with wind.
-- Background workers should move minimally and naturally.
-- No character should dominate the frame yet.
+- No fast movement unless specifically required.
+- No handheld shake.
+- No exaggerated acting.
+- No AI-style floating objects.
+- Maintain continuity with the previous and next shot in the same package.

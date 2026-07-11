@@ -1,0 +1,21 @@
+shot_id: SHOT083
+episode: S01E01
+package: Package008_Home
+aspect_ratio: "2.39:1"
+fps: 24
+duration_seconds: 4.0
+lens: "85mm long"
+camera_type: "static exterior"
+movement:
+  type: "static or minimal motivated movement"
+  speed: "low"
+  shake: "off"
+  stabilization: "cinematic stable"
+depth_of_field: "as required by lens and story focus"
+lighting:
+  key: "warm tungsten practicals where present"
+  fill: "cold blue-gray ambient dawn or night"
+  notes: "Keep lighting restrained and physically motivated."
+weather:
+  surface: "wet industrial materials"
+  atmosphere: "steam, mist, dust, cold air"

@@ -15,12 +15,12 @@ Status: READY_FOR_VIDEO
 
 ## Lock Criteria
 
-- Gray Harbor feels alive, not empty.
-- The shot remains restrained, not spectacular.
-- Soup shop, lamp repair, and coal cart are readable.
-- Workers are background texture, not story focus.
-- Steam and cart motion feel natural.
-- Cut point leads cleanly into SHOT004.
+- Shot fulfills its stated story purpose.
+- Camera language matches WUCHENG Video Bible.
+- No obvious AI artifacts.
+- Materials look repaired and lived-in.
+- Motion is restrained and physically believable.
+- Cut point works within package: Package001_Opening.
 
 ## Decision
 

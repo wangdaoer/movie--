@@ -1,20 +1,21 @@
 shot_id: SHOT002
 episode: S01E01
+package: Package001_Opening
 aspect_ratio: "2.39:1"
 fps: 24
 duration_seconds: 3.0
 lens: "35mm"
 camera_type: "low close-up"
 movement:
-  type: "slow push with micro tilt"
-  speed: "0.12x"
+  type: "static or minimal motivated movement"
+  speed: "low"
   shake: "off"
-  stabilization: "locked, minimal movement"
-depth_of_field: "shallow-medium"
+  stabilization: "cinematic stable"
+depth_of_field: "as required by lens and story focus"
 lighting:
-  key: "warm spill from dawn lamp"
-  fill: "cold gray street ambience"
-  notes: "The boot and wood must remain readable without looking staged."
+  key: "warm tungsten practicals where present"
+  fill: "cold blue-gray ambient dawn or night"
+  notes: "Keep lighting restrained and physically motivated."
 weather:
-  surface: "wet wood and wet stone"
-  atmosphere: "light steam, rain residue"
+  surface: "wet industrial materials"
+  atmosphere: "steam, mist, dust, cold air"

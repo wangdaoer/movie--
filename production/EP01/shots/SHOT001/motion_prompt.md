@@ -1,11 +1,13 @@
 # SHOT001 Motion Prompt
 
-The shot begins in near darkness. A weathered industrial dawn lamp slowly ignites. The tungsten filament grows brighter over four seconds. Steam gently escapes from nearby pipes and drifts through the frame. Tiny particles float in the air. The camera performs an extremely slow forward push while staying stable and restrained. In the far background, one or two distant city lights begin to wake. Nothing moves quickly. The feeling is quiet, heavy, and lived-in.
+A weathered brass industrial street lamp slowly warms from deep red to orange to amber before stabilizing.
+
+Motion should be restrained, physically believable, and motivated by character behavior or the city itself. Camera movement should remain static or nearly static unless the shot specifically requires movement. Steam, rain residue, fabric, small tools, and light should move naturally. Avoid spectacle.
 
 ## Motion Rules
 
-- No fast camera movement.
-- No visible characters.
-- No vehicles entering frame.
-- Steam motion must be irregular and natural.
-- Lamp movement may include one very slight sway from wind.
+- No fast movement unless specifically required.
+- No handheld shake.
+- No exaggerated acting.
+- No AI-style floating objects.
+- Maintain continuity with the previous and next shot in the same package.

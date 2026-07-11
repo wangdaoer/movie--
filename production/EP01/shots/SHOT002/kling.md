@@ -1,11 +1,9 @@
 # SHOT002 Kling Prompt
 
-Low cinematic close-up of a wet wooden plank in an old industrial harbor street. A worn leather boot steps in, presses the raised plank flat, then continues out of frame. Tiny water movement and subtle wood flex. Background steam drifts slowly. Quiet, heavy, realistic. No dramatic pose, no full character reveal.
+3.0s cinematic shot. A worn leather boot gently presses a raised wet wooden plank flat and continues walking. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
-## Camera
+Camera: low close-up. Lens: 35mm. Motion strength low. Keep everything realistic, damp, repaired, and grounded.
 
-Low close-up, slow push, micro tilt, locked finish.
+## Avoid
 
-## Important
-
-The action should feel like something Qi Zhou does every day without thinking.
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic

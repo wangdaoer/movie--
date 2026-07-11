@@ -15,12 +15,12 @@ Status: READY_FOR_VIDEO
 
 ## Lock Criteria
 
-- The lamp looks repaired and old.
-- The shot feels quiet, not spectacular.
-- No character appears.
-- Steam movement is natural.
-- The light reveals only a small part of the street.
-- The shot can cut cleanly into SHOT002.
+- Shot fulfills its stated story purpose.
+- Camera language matches WUCHENG Video Bible.
+- No obvious AI artifacts.
+- Materials look repaired and lived-in.
+- Motion is restrained and physically believable.
+- Cut point works within package: Package001_Opening.
 
 ## Decision
 

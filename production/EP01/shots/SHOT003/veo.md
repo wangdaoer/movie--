@@ -1,11 +1,13 @@
 # SHOT003 Veo Prompt
 
-Create an 8-second cinematic wide shot in 2.39:1. Gray Harbor slowly wakes before dawn. A soup shop releases thick white steam. A weathered lamp repairman checks a morning lamp from a ladder. A heavy coal cart slowly crosses the foreground and briefly obscures the street. Background workers begin quiet routine tasks. The camera is locked and static. The shot must feel ordinary, lived-in, damp, and industrial. No action spectacle, no neon overload, no futuristic UI.
+Create a 8.0-second cinematic shot in 2.39:1. Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
+
+The motion must be subtle and physically realistic. Keep the atmosphere quiet and emotionally restrained. No text, no logo, no modern objects, no cyberpunk neon spectacle.
 
 ## Duration
 
-8 seconds
+8.0 seconds
 
 ## Output Intent
 
-First full reveal of Gray Harbor as a living place.
+Use as final-candidate AI video source for SHOT003 in S01E01.

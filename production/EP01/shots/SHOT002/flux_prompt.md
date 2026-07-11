@@ -2,14 +2,14 @@
 
 ## Prompt
 
-Close cinematic low-angle view of a raised weathered wooden plank on a wet cobblestone industrial street before dawn. A worn leather work boot enters frame and is about to press the plank down. Old rainwater, coal dust, rusted bolts, repaired street materials, shallow puddles, drifting steam in background, grounded dieselpunk realism, 35mm lens, anamorphic 2.39:1, realistic texture, restrained color palette, film still.
+A worn leather boot gently presses a raised wet wooden plank flat and continues walking. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
 ## Negative Prompt
 
-cartoon, anime, new clean wood, polished shoe, modern sneaker, neon cyberpunk overload, hologram, modern city, logo, watermark, extra text, excessive splash, dramatic action pose
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic
 
 ## Consistency Notes
 
-- Boot belongs to Qi Zhou but his face must not appear.
-- The plank should look repeatedly repaired and stepped on.
-- This is not heroic. It is a quiet habitual action.
+- Preserve WUCHENG material rule: everything looks used, repaired, and maintained.
+- Do not introduce new worldbuilding not required by this shot.
+- Keep the shot quiet, restrained, and production-realistic.

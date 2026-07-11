@@ -1,11 +1,13 @@
 # SHOT002 Veo Prompt
 
-Create a 3-second cinematic close-up in 2.39:1. A worn leather boot steps onto a raised wet wooden plank on an old industrial cobblestone street. The plank bends slightly, settles flat, and releases a tiny wet creak. Small droplets move outward. Steam passes in the background. The boot exits naturally without stopping. Keep the motion restrained, realistic, and quiet. No face, no full body, no fast action.
+Create a 3.0-second cinematic shot in 2.39:1. A worn leather boot gently presses a raised wet wooden plank flat and continues walking. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
+
+The motion must be subtle and physically realistic. Keep the atmosphere quiet and emotionally restrained. No text, no logo, no modern objects, no cyberpunk neon spectacle.
 
 ## Duration
 
-3 seconds
+3.0 seconds
 
 ## Output Intent
 
-Reveal Qi Zhou's character through a small action before showing him fully.
+Use as final-candidate AI video source for SHOT002 in S01E01.

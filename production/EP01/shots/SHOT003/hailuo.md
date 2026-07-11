@@ -1,7 +1,7 @@
 # SHOT003 Hailuo Prompt
 
-8s cinematic wide shot. Old industrial harbor neighborhood before dawn. Soup shop steam rises. Lamp repairman tests a lamp. Coal cart passes slowly in foreground. Workers begin routine movement. Wet cobblestones, pipes, repaired facades, gray sky, warm practical lamps. Quiet realism, no spectacle.
+8.0s, 2.39:1, cinematic realism. Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
 ## Avoid
 
-Modern city, neon overload, crowded festival, empty abandoned city, fast camera movement, action scene, blue dream imagery.
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic

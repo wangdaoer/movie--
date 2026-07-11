@@ -2,28 +2,12 @@
 
 ## 0.0s
 
-Raised wet wooden plank is visible. Steam moves softly in background.
+Establish the shot state and visual focus.
 
-## 0.4s
+## 1.5s
 
-Worn boot enters frame.
-
-## 0.9s
-
-Boot makes contact with plank.
-
-## 1.4s
-
-Weight transfers. Wood bends and water shifts.
-
-## 2.1s
-
-Plank settles flat. Small creak/click.
-
-## 2.6s
-
-Boot exits frame naturally.
+Primary action or emotional beat occurs: A worn leather boot gently presses a raised wet wooden plank flat and continues walking.
 
 ## 3.0s
 
-Cut to SHOT003.
+Clean cut point into next shot.

@@ -1,11 +1,9 @@
 # SHOT003 Kling Prompt
 
-Wide locked cinematic street shot before dawn. Gray Harbor is waking: soup shop steam, lamp repair worker on a ladder, coal cart moving slowly across foreground, quiet workers in the background, wet stone street, repaired buildings, pipes, old signs, pale gray sky. Keep the shot restrained and realistic. No dramatic action. No main character emphasis yet.
+8.0s cinematic shot. Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
-## Camera
+Camera: wide locked. Lens: 35mm. Motion strength low. Keep everything realistic, damp, repaired, and grounded.
 
-Locked tripod, deep focus, 35mm.
+## Avoid
 
-## Important
-
-This shot should make the audience believe people have lived and worked here for decades.
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic

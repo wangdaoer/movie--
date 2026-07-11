@@ -15,12 +15,12 @@ Status: READY_FOR_VIDEO
 
 ## Lock Criteria
 
-- Boot reads as worn work boot, not fashion boot.
-- Plank looks repaired and old.
-- Action feels habitual, not performed.
-- No face or full body appears.
-- Water and wood motion are subtle and physically believable.
-- Cut point leads cleanly into SHOT003.
+- Shot fulfills its stated story purpose.
+- Camera language matches WUCHENG Video Bible.
+- No obvious AI artifacts.
+- Materials look repaired and lived-in.
+- Motion is restrained and physically believable.
+- Cut point works within package: Package001_Opening.
 
 ## Decision
 

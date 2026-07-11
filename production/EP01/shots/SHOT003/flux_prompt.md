@@ -2,15 +2,14 @@
 
 ## Prompt
 
-Wide cinematic view of Gray Harbor waking before dawn, an old industrial neighborhood with wet cobblestone street, soup shop emitting thick white steam, a weathered lamp repair stall with ladders and tools, slow coal cart tracks, patched metal pipes, repaired wooden signs, workers beginning routine morning tasks, pale gray sky, practical warm lamps, grounded dieselpunk realism, lived-in materials, restrained color palette, 35mm lens, anamorphic 2.39:1, ultra realistic film still.
+Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
 ## Negative Prompt
 
-cartoon, anime, neon overload, futuristic holograms, modern cars, glass skyscrapers, clean new street, empty abandoned city, crowded festival, action scene, logo, watermark, readable random text, over-saturated colors
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic
 
 ## Consistency Notes
 
-- Gray Harbor must feel alive, not abandoned.
-- Workers should be small background presences, not main characters.
-- Warm light is local and limited; the overall world remains gray and damp.
-- Do not introduce blue dream imagery.
+- Preserve WUCHENG material rule: everything looks used, repaired, and maintained.
+- Do not introduce new worldbuilding not required by this shot.
+- Keep the shot quiet, restrained, and production-realistic.

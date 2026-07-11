@@ -1,11 +1,9 @@
 # SHOT001 Kling Prompt
 
-A slow cinematic pre-dawn industrial street shot. A single old repaired brass lamp turns on. Wet stones reflect a small pool of warm light. Steam drifts slowly and unevenly from old pipes. The camera gently pushes forward, almost imperceptibly. Keep motion minimal and realistic. No people appear. No action spectacle. Mood: quiet, heavy, industrial, lived-in.
+4.0s cinematic shot. A weathered brass industrial street lamp slowly warms from deep red to orange to amber before stabilizing. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
-## Camera
+Camera: locked tripod. Lens: 24mm. Motion strength low. Keep everything realistic, damp, repaired, and grounded.
 
-Locked tripod, very slow push in.
+## Avoid
 
-## Important
-
-The lamp must look used for decades: scratches, rivets, repair marks, rain streaks, oxidized brass.
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic

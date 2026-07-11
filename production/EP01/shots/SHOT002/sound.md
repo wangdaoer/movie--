@@ -2,22 +2,20 @@
 
 ## Ambience
 
-- Distant harbor wind
-- Soft steam hiss
-- Far morning rail resonance
-- Low industrial room tone from the street
+- Industrial harbor room tone
+- Wind through repaired metal structures
+- Distant steam release
+- Wet street or interior resonance depending on location
 
 ## Foley
 
-- Leather boot on wet stone
-- Damp wood pressure creak
-- Small water displacement
-- Final soft plank settle: click/knock
+- Physically motivated small sounds matching the shot action
+- Fabric, tools, wood, metal, water, footsteps, breath as appropriate
 
 ## Music Cue
 
-No melody. Keep music below perception or absent.
+No melody unless specifically required. Use silence and low texture first.
 
 ## Silence Notes
 
-The wood creak is the emotional center of the shot. Do not cover it with score.
+Let quiet carry tension. Do not over-score.

@@ -1,7 +1,7 @@
 # SHOT001 Hailuo Prompt
 
-4s cinematic shot, 2.39:1. Before dawn in an old industrial harbor city. One repaired brass morning lamp slowly ignites. Wet stone ground, steam, faint wind, no humans. The shot is nearly still, with subtle lamp sway and soft steam drift. Realistic film look, muted colors, warm tungsten against cold gray dawn.
+4.0s, 2.39:1, cinematic realism. A weathered brass industrial street lamp slowly warms from deep red to orange to amber before stabilizing. Photorealistic Kodak Vision3 35mm film look, anamorphic 2.39:1, muted blue-gray dawn palette with warm tungsten practical lighting, old repaired industrial harbor city, wet cobblestones, rust, coal dust, patched metal, worn wood, drifting steam, restrained HBO prestige drama tone.
 
 ## Avoid
 
-Fast movement, cyberpunk neon, modern objects, people, text overlays, excessive glow.
+cartoon, anime, CGI look, cyberpunk neon overload, futuristic holograms, modern buildings, modern vehicles, clean new materials, oversaturated colors, fast movement, handheld camera, shaky camera, text, subtitles, logo, watermark, hero pose, exaggerated acting, fantasy magic

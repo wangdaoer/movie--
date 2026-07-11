@@ -2,28 +2,12 @@
 
 ## 0.0s
 
-Wide locked view of Gray Harbor street. Steam already present.
+Establish the shot state and visual focus.
 
-## 1.0s
+## 4.0s
 
-Soup shop activity begins to read: steam thickens, pot movement audible.
-
-## 2.0s
-
-Lamp repairman tests a lamp: warm light flickers on briefly.
-
-## 3.5s
-
-Coal cart enters foreground slowly.
-
-## 5.0s
-
-Coal cart obscures part of the street and shop.
-
-## 6.5s
-
-Coal cart clears frame. The street is visible again, more alive than before.
+Primary action or emotional beat occurs: Gray Harbor wakes: soup shop steam, lamp repair stall, coal cart, workers, wet cobblestones.
 
 ## 8.0s
 
-Cut to SHOT004.
+Clean cut point into next shot.

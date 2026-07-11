@@ -2,24 +2,12 @@
 
 ## 0.0s
 
-Near black. Wind and distant steam are heard before the lamp is fully visible.
+Establish the shot state and visual focus.
 
-## 0.6s
+## 2.0s
 
-Lamp filament begins to glow. A small amber point appears.
-
-## 1.5s
-
-Warm light spreads onto the wet stone ground. Steam drifts through the lamp light.
-
-## 2.5s
-
-Camera push becomes barely perceptible. One distant city light appears in background haze.
-
-## 3.6s
-
-Lamp reaches stable brightness. Metal ticks softly.
+Primary action or emotional beat occurs: A weathered brass industrial street lamp slowly warms from deep red to orange to amber before stabilizing.
 
 ## 4.0s
 
-Cut to SHOT002.
+Clean cut point into next shot.
